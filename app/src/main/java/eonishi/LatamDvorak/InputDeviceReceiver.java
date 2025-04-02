@@ -1,4 +1,4 @@
-package varzan.extraKeyboardLayouts;
+package eonishi.LatamDvorak;
 
 import android.content.BroadcastReceiver;
 import android.content.Context;
