@@ -4,11 +4,11 @@ android {
     compileSdkVersion 33
     buildToolsVersion "33.0.1"
     defaultConfig {
-        applicationId "varzan.extraKeyboardLayouts"
+        applicationId "eonishi.LatamDvorak"
         minSdkVersion 16
         targetSdkVersion 33
-        versionCode 1029
-        versionName "1.29"
+        versionCode 1
+        versionName "1.00"
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
     }
     buildTypes {
